@@ -1,6 +1,9 @@
 # sendbird-await
 Sendbird await module for Platform API
 
+## Requirements
+    node v8.4.0 Higher
+
 ## Installation
     npm install sendbird-await --save
 
