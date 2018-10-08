@@ -1,6 +1,6 @@
 {
   "name": "sendbird-await",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Sendbird await module for Platform API.",
   "author": {
     "name": "nexus11",
