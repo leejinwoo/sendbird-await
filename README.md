@@ -27,7 +27,7 @@ The `Sendbird` instance we just created has an entry for each endpoint in the [S
 
 ### Example
 
-To create a user you would simply need to have something like this:
+To create a user you would simply need to have something like this:  
 ```javascript
 'use strict';
 
@@ -66,6 +66,7 @@ class Test {
         let groupChannel = await Sendbird.groupchannel.create(params);
         return groupChannel;
     }
+
     async sendMessage() {
         let params = {
             channel_type: 'group_channels',
