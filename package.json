@@ -1,6 +1,6 @@
 {
   "name": "sendbird-await",
-  "version": "1.0.6",
+  "version": "1.0.11",
   "description": "Sendbird await module for Platform API.",
   "author": {
     "name": "nexus11",
@@ -10,10 +10,10 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/nexus11/sendbird-await.git"
+    "url": "git://github.com/leejinwoo/sendbird-await.git"
   },
   "bugs": {
-    "url": "http://github.com/nexus11/sendbird-await/issues"
+    "url": "http://github.com/leejinwoo/sendbird-await/issues"
   },
   "main": "./SendbirdAwait.js",
   "dependencies": {
